@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/books/index.html</loc>
+    
+    <lastmod>2019-10-24T01:26:56.970Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/links/index.html</loc>
+    
+    <lastmod>2019-10-24T01:26:56.970Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/repository/index.html</loc>
+    
+    <lastmod>2019-10-24T01:26:56.970Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2019/10/24/hello-world/</loc>
+    
+    <lastmod>2019-10-24T01:22:48.146Z</lastmod>
+    
+  </url>
+  
+</urlset>
